@@ -1,0 +1,4607 @@
+{
+ "feeling_groups": [
+  {
+   "name": "Affectionate",
+   "met": true,
+   "emoji": null,
+   "needs": [
+    "Love",
+    "Affection",
+    "Closeness",
+    "Intimacy",
+    "Warmth"
+   ],
+   "entries": [
+    {
+     "name": "Affectionate",
+     "emoji": "🥰",
+     "description": "Fond and tender toward someone."
+    },
+    {
+     "name": "Compassionate",
+     "emoji": "🤝",
+     "description": "Moved to care about another's pain."
+    },
+    {
+     "name": "Friendly",
+     "emoji": "🙂",
+     "description": "Warm and approachable toward others."
+    },
+    {
+     "name": "Loving",
+     "emoji": "❤️",
+     "description": "Deeply caring and attached."
+    },
+    {
+     "name": "Open-hearted",
+     "emoji": "💗",
+     "description": "Receptive and unguarded with others."
+    },
+    {
+     "name": "Sympathetic",
+     "emoji": "🫂",
+     "description": "Feeling sorrow alongside someone else."
+    },
+    {
+     "name": "Tender",
+     "emoji": "🌷",
+     "description": "Gentle and soft-feeling."
+    },
+    {
+     "name": "Warm",
+     "emoji": "☀️",
+     "description": "Cozy and close with others."
+    },
+    {
+     "name": "Caring",
+     "emoji": "🤲",
+     "description": "Concerned for someone's wellbeing."
+    },
+    {
+     "name": "Fond",
+     "emoji": "😊",
+     "description": "Having a soft spot for someone."
+    },
+    {
+     "name": "Devoted",
+     "emoji": "💍",
+     "description": "Faithfully committed to someone."
+    }
+   ]
+  },
+  {
+   "name": "Engaged",
+   "met": true,
+   "emoji": "🧠",
+   "needs": [
+    "Stimulation",
+    "Learning",
+    "Discovery",
+    "Participation",
+    "Challenge"
+   ],
+   "entries": [
+    {
+     "name": "Absorbed",
+     "emoji": "🎯",
+     "description": "Fully taken up by what you are doing."
+    },
+    {
+     "name": "Alert",
+     "emoji": "👀",
+     "description": "Awake, attentive and ready."
+    },
+    {
+     "name": "Curious",
+     "emoji": "🔍",
+     "description": "Wanting to find out more."
+    },
+    {
+     "name": "Engrossed",
+     "emoji": "📖",
+     "description": "Deeply caught up in something."
+    },
+    {
+     "name": "Enchanted",
+     "emoji": "✨",
+     "description": "Delighted and charmed."
+    },
+    {
+     "name": "Fascinated",
+     "emoji": "🤩",
+     "description": "Strongly drawn to something."
+    },
+    {
+     "name": "Interested",
+     "emoji": "🧐",
+     "description": "Attention held by something."
+    },
+    {
+     "name": "Intrigued",
+     "emoji": "🕵️",
+     "description": "Curiosity pulled in by a puzzle."
+    },
+    {
+     "name": "Involved",
+     "emoji": "🙌",
+     "description": "Part of what is going on."
+    },
+    {
+     "name": "Stimulated",
+     "emoji": "⚡",
+     "description": "Mentally or physically energized."
+    },
+    {
+     "name": "Focused",
+     "emoji": "🔬",
+     "description": "Attention held on one thing."
+    },
+    {
+     "name": "Attentive",
+     "emoji": "👂",
+     "description": "Listening and noticing closely."
+    }
+   ]
+  },
+  {
+   "name": "Hopeful",
+   "met": true,
+   "emoji": null,
+   "needs": [
+    "Hope",
+    "Clarity",
+    "Support",
+    "Growth"
+   ],
+   "entries": [
+    {
+     "name": "Expectant",
+     "emoji": "🎁",
+     "description": "Looking forward to something coming."
+    },
+    {
+     "name": "Encouraged",
+     "emoji": "💪",
+     "description": "Given courage and heart."
+    },
+    {
+     "name": "Optimistic",
+     "emoji": "🌅",
+     "description": "Expecting things to go well."
+    },
+    {
+     "name": "Hopeful",
+     "emoji": "🌈",
+     "description": "Feeling that things can work out."
+    },
+    {
+     "name": "Reassured",
+     "emoji": "🧸",
+     "description": "Eased by something comforting."
+    },
+    {
+     "name": "Upbeat",
+     "emoji": "🎵",
+     "description": "Cheerful and positive."
+    }
+   ]
+  },
+  {
+   "name": "Confident",
+   "met": true,
+   "emoji": null,
+   "needs": [
+    "Competence",
+    "Efficacy",
+    "Safety",
+    "Security",
+    "Respect"
+   ],
+   "entries": [
+    {
+     "name": "Confident",
+     "emoji": "😎",
+     "description": "Sure of yourself and your abilities."
+    },
+    {
+     "name": "Empowered",
+     "emoji": "🦾",
+     "description": "Able to act and influence outcomes."
+    },
+    {
+     "name": "Proud",
+     "emoji": "🏅",
+     "description": "Pleased with what you or others have done."
+    },
+    {
+     "name": "Safe",
+     "emoji": "🛡️",
+     "description": "Free from threat or harm."
+    },
+    {
+     "name": "Secure",
+     "emoji": "🔒",
+     "description": "Settled and not at risk."
+    },
+    {
+     "name": "Assured",
+     "emoji": "✔️",
+     "description": "Certain things will be fine."
+    },
+    {
+     "name": "Capable",
+     "emoji": "🧰",
+     "description": "Able to handle what comes."
+    },
+    {
+     "name": "Strong",
+     "emoji": "🏋️",
+     "description": "Solid and resilient."
+    }
+   ]
+  },
+  {
+   "name": "Excited",
+   "met": true,
+   "emoji": "🤸",
+   "needs": [
+    "Stimulation",
+    "Joy",
+    "Celebration of life",
+    "Spontaneity"
+   ],
+   "entries": [
+    {
+     "name": "Amazed",
+     "emoji": "😲",
+     "description": "Struck with wonder."
+    },
+    {
+     "name": "Animated",
+     "emoji": "🎉",
+     "description": "Lively and full of spirit."
+    },
+    {
+     "name": "Ardent",
+     "emoji": "🔥",
+     "description": "Intensely passionate."
+    },
+    {
+     "name": "Dazzled",
+     "emoji": "🌟",
+     "description": "Overwhelmed by something brilliant."
+    },
+    {
+     "name": "Eager",
+     "emoji": "🏃",
+     "description": "Keen to get started."
+    },
+    {
+     "name": "Energetic",
+     "emoji": "🔋",
+     "description": "Full of energy and vigor."
+    },
+    {
+     "name": "Enthusiastic",
+     "emoji": "🙋",
+     "description": "Keenly excited and eager."
+    },
+    {
+     "name": "Vibrant",
+     "emoji": "🌺",
+     "description": "Full of life and color."
+    },
+    {
+     "name": "Giddy",
+     "emoji": "🎠",
+     "description": "Light-headed with excitement."
+    },
+    {
+     "name": "Fired up",
+     "emoji": "🚀",
+     "description": "Charged and ready to go."
+    },
+    {
+     "name": "Buzzing",
+     "emoji": "🐝",
+     "description": "Humming with energy."
+    }
+   ]
+  },
+  {
+   "name": "Grateful",
+   "met": true,
+   "emoji": "🙏",
+   "needs": [
+    "Appreciation",
+    "Contribution",
+    "Connection",
+    "Support"
+   ],
+   "entries": [
+    {
+     "name": "Appreciative",
+     "emoji": "🙏",
+     "description": "Recognizing and valuing what you received."
+    },
+    {
+     "name": "Moved",
+     "emoji": "🥹",
+     "description": "Emotionally touched."
+    },
+    {
+     "name": "Thankful",
+     "emoji": "💐",
+     "description": "Glad for what someone did or gave."
+    },
+    {
+     "name": "Touched",
+     "emoji": "💞",
+     "description": "Warmly affected by a kindness."
+    },
+    {
+     "name": "Blessed",
+     "emoji": "🌤️",
+     "description": "Feeling fortunate."
+    },
+    {
+     "name": "Indebted",
+     "emoji": "🧾",
+     "description": "Aware of what you owe to someone."
+    }
+   ]
+  },
+  {
+   "name": "Inspired",
+   "met": true,
+   "emoji": null,
+   "needs": [
+    "Inspiration",
+    "Meaning",
+    "Purpose",
+    "Creativity",
+    "Beauty"
+   ],
+   "entries": [
+    {
+     "name": "Awed",
+     "emoji": "🌌",
+     "description": "Respectful wonder at something vast."
+    },
+    {
+     "name": "Wonder",
+     "emoji": "🔭",
+     "description": "Marveling at something remarkable."
+    },
+    {
+     "name": "Inspired",
+     "emoji": "💡",
+     "description": "Stirred to act or create."
+    },
+    {
+     "name": "Motivated",
+     "emoji": "🧗",
+     "description": "Driven to get going."
+    },
+    {
+     "name": "Uplifted",
+     "emoji": "🎈",
+     "description": "Lifted in mood and spirit."
+    }
+   ]
+  },
+  {
+   "name": "Joyful",
+   "met": true,
+   "emoji": "😀",
+   "needs": [
+    "Joy",
+    "Humor",
+    "Celebration of life",
+    "Play"
+   ],
+   "entries": [
+    {
+     "name": "Amused",
+     "emoji": "😄",
+     "description": "Finding something funny."
+    },
+    {
+     "name": "Delighted",
+     "emoji": "😊",
+     "description": "Greatly pleased."
+    },
+    {
+     "name": "Glad",
+     "emoji": "😁",
+     "description": "Pleased and happy about something."
+    },
+    {
+     "name": "Happy",
+     "emoji": "😀",
+     "description": "Feeling good and content."
+    },
+    {
+     "name": "Jubilant",
+     "emoji": "🥳",
+     "description": "Triumphantly joyful."
+    },
+    {
+     "name": "Pleased",
+     "emoji": "👍",
+     "description": "Satisfied with how things are."
+    },
+    {
+     "name": "Thrilled",
+     "emoji": "🎢",
+     "description": "Intensely excited and happy."
+    },
+    {
+     "name": "Ecstatic",
+     "emoji": "🎆",
+     "description": "Overflowing with joy."
+    },
+    {
+     "name": "Elated",
+     "emoji": "🎈",
+     "description": "Lifted up by happiness."
+    },
+    {
+     "name": "Radiant",
+     "emoji": "🌞",
+     "description": "Glowing with happiness."
+    },
+    {
+     "name": "Overjoyed",
+     "emoji": "🤗",
+     "description": "Filled with great joy."
+    },
+    {
+     "name": "Cheerful",
+     "emoji": "🌼",
+     "description": "Bright and in good spirits."
+    },
+    {
+     "name": "Lighthearted",
+     "emoji": "🪶",
+     "description": "Free of worry."
+    },
+    {
+     "name": "Gleeful",
+     "emoji": "😆",
+     "description": "Openly and playfully happy."
+    },
+    {
+     "name": "Merry",
+     "emoji": "🎄",
+     "description": "Festive and jolly."
+    }
+   ]
+  },
+  {
+   "name": "Peaceful",
+   "met": true,
+   "emoji": "🕊️",
+   "needs": [
+    "Peace",
+    "Ease",
+    "Harmony",
+    "Rest",
+    "Order"
+   ],
+   "entries": [
+    {
+     "name": "Calm",
+     "emoji": "😌",
+     "description": "Quiet and untroubled."
+    },
+    {
+     "name": "Centered",
+     "emoji": "⚖️",
+     "description": "Balanced and grounded."
+    },
+    {
+     "name": "Clear-headed",
+     "emoji": "🧘",
+     "description": "Thinking without fog or static."
+    },
+    {
+     "name": "Comfortable",
+     "emoji": "🛋️",
+     "description": "At ease in body and mind."
+    },
+    {
+     "name": "Content",
+     "emoji": "🍵",
+     "description": "Satisfied with what is."
+    },
+    {
+     "name": "Equanimous",
+     "emoji": "🌊",
+     "description": "Steady whatever comes."
+    },
+    {
+     "name": "Fulfilled",
+     "emoji": "🏆",
+     "description": "Having needs richly met."
+    },
+    {
+     "name": "Mellow",
+     "emoji": "🍃",
+     "description": "Easygoing and soft."
+    },
+    {
+     "name": "Quiet",
+     "emoji": "🤫",
+     "description": "Inwardly still."
+    },
+    {
+     "name": "Relaxed",
+     "emoji": "🏖️",
+     "description": "Free of tension."
+    },
+    {
+     "name": "Relieved",
+     "emoji": "😮‍💨",
+     "description": "Eased after worry or strain."
+    },
+    {
+     "name": "Satisfied",
+     "emoji": "✅",
+     "description": "Got what you needed."
+    },
+    {
+     "name": "Serene",
+     "emoji": "🪷",
+     "description": "Calm and unruffled."
+    },
+    {
+     "name": "Tranquil",
+     "emoji": "🏞️",
+     "description": "Peaceful and undisturbed."
+    },
+    {
+     "name": "Trusting",
+     "emoji": "🤲",
+     "description": "Willing to rely on others."
+    },
+    {
+     "name": "Settled",
+     "emoji": "🪑",
+     "description": "Comfortably in place."
+    },
+    {
+     "name": "At ease",
+     "emoji": "🌴",
+     "description": "Free of worry or strain."
+    },
+    {
+     "name": "Soothed",
+     "emoji": "🫖",
+     "description": "Comforted and calmed."
+    },
+    {
+     "name": "Balanced",
+     "emoji": "🪨",
+     "description": "Steady between demands."
+    }
+   ]
+  },
+  {
+   "name": "Refreshed",
+   "met": true,
+   "emoji": "🌿",
+   "needs": [
+    "Rest",
+    "Ease",
+    "Growth",
+    "Movement"
+   ],
+   "entries": [
+    {
+     "name": "Enlivened",
+     "emoji": "🌻",
+     "description": "Brought back to life."
+    },
+    {
+     "name": "Rejuvenated",
+     "emoji": "🌱",
+     "description": "Made young and fresh again."
+    },
+    {
+     "name": "Renewed",
+     "emoji": "♻️",
+     "description": "Restored to a fresh start."
+    },
+    {
+     "name": "Rested",
+     "emoji": "😴",
+     "description": "Recovered by sleep or a break."
+    },
+    {
+     "name": "Restored",
+     "emoji": "🩹",
+     "description": "Returned to good condition."
+    },
+    {
+     "name": "Revived",
+     "emoji": "💧",
+     "description": "Brought back to vigor."
+    },
+    {
+     "name": "Recharged",
+     "emoji": "🔌",
+     "description": "Energy topped up again."
+    },
+    {
+     "name": "Energized",
+     "emoji": "⚡",
+     "description": "Full of fresh energy."
+    }
+   ]
+  },
+  {
+   "name": "Afraid",
+   "met": false,
+   "emoji": "😨",
+   "needs": [
+    "Safety",
+    "Security",
+    "Stability",
+    "Trust",
+    "Clarity",
+    "Support"
+   ],
+   "entries": [
+    {
+     "name": "Apprehensive",
+     "emoji": "😬",
+     "description": "Uneasy about what may happen."
+    },
+    {
+     "name": "Dread",
+     "emoji": "🌩️",
+     "description": "Fearing something bad ahead."
+    },
+    {
+     "name": "Frightened",
+     "emoji": "😨",
+     "description": "Afraid of a specific threat."
+    },
+    {
+     "name": "Mistrustful",
+     "emoji": "🤨",
+     "description": "Doubting that others are reliable."
+    },
+    {
+     "name": "Panicked",
+     "emoji": "😱",
+     "description": "Overcome by sudden fear."
+    },
+    {
+     "name": "Petrified",
+     "emoji": "🗿",
+     "description": "Frozen in fear."
+    },
+    {
+     "name": "Scared",
+     "emoji": "👻",
+     "description": "Afraid, as of danger."
+    },
+    {
+     "name": "Suspicious",
+     "emoji": "🕶️",
+     "description": "Expecting something is not right."
+    },
+    {
+     "name": "Terrified",
+     "emoji": "🫨",
+     "description": "Extremely afraid."
+    },
+    {
+     "name": "Wary",
+     "emoji": "🐈",
+     "description": "Cautious about possible danger."
+    },
+    {
+     "name": "Worried",
+     "emoji": "😟",
+     "description": "Troubled by what could go wrong."
+    },
+    {
+     "name": "Fearful",
+     "emoji": "😧",
+     "description": "Full of fear."
+    },
+    {
+     "name": "Uneasy",
+     "emoji": "🫤",
+     "description": "Not at ease, sensing something off."
+    }
+   ]
+  },
+  {
+   "name": "Annoyed",
+   "met": false,
+   "emoji": "😒",
+   "needs": [
+    "Ease",
+    "Consideration",
+    "Order",
+    "Efficacy",
+    "Space"
+   ],
+   "entries": [
+    {
+     "name": "Aggravated",
+     "emoji": "😖",
+     "description": "Made worse by repeated irritation."
+    },
+    {
+     "name": "Dismayed",
+     "emoji": "😧",
+     "description": "Upset by something unexpected."
+    },
+    {
+     "name": "Disgruntled",
+     "emoji": "😒",
+     "description": "Sulkily dissatisfied."
+    },
+    {
+     "name": "Displeased",
+     "emoji": "🙁",
+     "description": "Not satisfied with how things are."
+    },
+    {
+     "name": "Exasperated",
+     "emoji": "🙄",
+     "description": "Worn out by repeated frustration."
+    },
+    {
+     "name": "Frustrated",
+     "emoji": "😤",
+     "description": "Blocked from what you want."
+    },
+    {
+     "name": "Impatient",
+     "emoji": "⏳",
+     "description": "Restless at delay."
+    },
+    {
+     "name": "Irritated",
+     "emoji": "😣",
+     "description": "Bothered and on edge."
+    },
+    {
+     "name": "Irked",
+     "emoji": "🦟",
+     "description": "Mildly but persistently bothered."
+    },
+    {
+     "name": "Grumpy",
+     "emoji": "🐻",
+     "description": "Bad-tempered and short."
+    },
+    {
+     "name": "Peeved",
+     "emoji": "😑",
+     "description": "Mildly but definitely irritated."
+    }
+   ]
+  },
+  {
+   "name": "Angry",
+   "met": false,
+   "emoji": "😠",
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Fairness",
+    "Autonomy",
+    "Integrity",
+    "Safety"
+   ],
+   "entries": [
+    {
+     "name": "Enraged",
+     "emoji": "🤬",
+     "description": "Boiling over with anger."
+    },
+    {
+     "name": "Furious",
+     "emoji": "😡",
+     "description": "Extremely angry."
+    },
+    {
+     "name": "Incensed",
+     "emoji": "🌋",
+     "description": "Made hot with anger."
+    },
+    {
+     "name": "Indignant",
+     "emoji": "😠",
+     "description": "Angry at something unfair."
+    },
+    {
+     "name": "Irate",
+     "emoji": "💢",
+     "description": "Strongly and visibly angry."
+    },
+    {
+     "name": "Livid",
+     "emoji": "🟣",
+     "description": "Seething with anger."
+    },
+    {
+     "name": "Outraged",
+     "emoji": "📢",
+     "description": "Shocked and angry at a wrong."
+    },
+    {
+     "name": "Resentful",
+     "emoji": "🧊",
+     "description": "Holding on to anger about a past wrong."
+    },
+    {
+     "name": "Mad",
+     "emoji": "👿",
+     "description": "Angry, in plain words."
+    },
+    {
+     "name": "Fuming",
+     "emoji": "♨️",
+     "description": "Angry and barely contained."
+    }
+   ]
+  },
+  {
+   "name": "Aversion",
+   "met": false,
+   "emoji": "🤢",
+   "needs": [
+    "Respect",
+    "Safety",
+    "Integrity",
+    "Beauty",
+    "Peace"
+   ],
+   "entries": [
+    {
+     "name": "Appalled",
+     "emoji": "😵",
+     "description": "Shocked by something terrible."
+    },
+    {
+     "name": "Contempt",
+     "emoji": "😏",
+     "description": "Looking down on someone."
+    },
+    {
+     "name": "Disgusted",
+     "emoji": "🤢",
+     "description": "Strongly repelled."
+    },
+    {
+     "name": "Dislike",
+     "emoji": "👎",
+     "description": "Not caring for something."
+    },
+    {
+     "name": "Hate",
+     "emoji": "🖤",
+     "description": "Intense aversion."
+    },
+    {
+     "name": "Horrified",
+     "emoji": "🙀",
+     "description": "Shocked and frightened."
+    },
+    {
+     "name": "Hostile",
+     "emoji": "🥊",
+     "description": "Ready to oppose or attack."
+    },
+    {
+     "name": "Repulsed",
+     "emoji": "🤮",
+     "description": "Driven away by revulsion."
+    },
+    {
+     "name": "Disdain",
+     "emoji": "🧐",
+     "description": "Seeing something as beneath you."
+    },
+    {
+     "name": "Loathing",
+     "emoji": "🪳",
+     "description": "Intense disgust and dislike."
+    }
+   ]
+  },
+  {
+   "name": "Confused",
+   "met": false,
+   "emoji": "😕",
+   "needs": [
+    "Clarity",
+    "Understanding",
+    "Communication",
+    "Consistency",
+    "Orientation"
+   ],
+   "entries": [
+    {
+     "name": "Ambivalent",
+     "emoji": "🔀",
+     "description": "Pulled in two directions."
+    },
+    {
+     "name": "Baffled",
+     "emoji": "😕",
+     "description": "Unable to make sense of something."
+    },
+    {
+     "name": "Bewildered",
+     "emoji": "🌫️",
+     "description": "Lost in a tangle of things."
+    },
+    {
+     "name": "Dazed",
+     "emoji": "💫",
+     "description": "Stunned and unfocused."
+    },
+    {
+     "name": "Hesitant",
+     "emoji": "🐢",
+     "description": "Holding back before acting."
+    },
+    {
+     "name": "Lost",
+     "emoji": "🧭",
+     "description": "Without direction."
+    },
+    {
+     "name": "Perplexed",
+     "emoji": "🧩",
+     "description": "Puzzled by something complicated."
+    },
+    {
+     "name": "Puzzled",
+     "emoji": "🤔",
+     "description": "Unable to work something out."
+    },
+    {
+     "name": "Torn",
+     "emoji": "✂️",
+     "description": "Divided between choices."
+    },
+    {
+     "name": "Muddled",
+     "emoji": "🥣",
+     "description": "Mixed up and unclear."
+    },
+    {
+     "name": "Uncertain",
+     "emoji": "🤞",
+     "description": "Unsure how things stand."
+    },
+    {
+     "name": "Unsure",
+     "emoji": "🫥",
+     "description": "Without a firm view."
+    }
+   ]
+  },
+  {
+   "name": "Disconnected",
+   "met": false,
+   "emoji": "🔌",
+   "needs": [
+    "Connection",
+    "Closeness",
+    "Belonging",
+    "Inclusion",
+    "Stimulation",
+    "Companionship"
+   ],
+   "entries": [
+    {
+     "name": "Alienated",
+     "emoji": "👽",
+     "description": "Cut off, like an outsider."
+    },
+    {
+     "name": "Aloof",
+     "emoji": "🧍",
+     "description": "Distant and reserved."
+    },
+    {
+     "name": "Apathetic",
+     "emoji": "😶",
+     "description": "Not caring either way."
+    },
+    {
+     "name": "Bored",
+     "emoji": "🥱",
+     "description": "Not engaged by what is happening."
+    },
+    {
+     "name": "Cold",
+     "emoji": "🥶",
+     "description": "Emotionally distant."
+    },
+    {
+     "name": "Detached",
+     "emoji": "🪁",
+     "description": "Separated from what is going on."
+    },
+    {
+     "name": "Distant",
+     "emoji": "🏔️",
+     "description": "Far away emotionally."
+    },
+    {
+     "name": "Distracted",
+     "emoji": "📱",
+     "description": "Attention pulled elsewhere."
+    },
+    {
+     "name": "Indifferent",
+     "emoji": "🤷",
+     "description": "Without preference or concern."
+    },
+    {
+     "name": "Numb",
+     "emoji": "🫥",
+     "description": "Unable to feel much."
+    },
+    {
+     "name": "Uninterested",
+     "emoji": "💤",
+     "description": "Attention not caught."
+    },
+    {
+     "name": "Withdrawn",
+     "emoji": "🐚",
+     "description": "Pulled back from others."
+    },
+    {
+     "name": "Empty",
+     "emoji": "🫙",
+     "description": "Hollow, with little inside."
+    },
+    {
+     "name": "Remote",
+     "emoji": "🛰️",
+     "description": "Far from others."
+    }
+   ]
+  },
+  {
+   "name": "Disquiet",
+   "met": false,
+   "emoji": "🌀",
+   "needs": [
+    "Peace",
+    "Ease",
+    "Safety",
+    "Stability",
+    "Order"
+   ],
+   "entries": [
+    {
+     "name": "Agitated",
+     "emoji": "🌪️",
+     "description": "Stirred up and unsettled."
+    },
+    {
+     "name": "Alarmed",
+     "emoji": "🚨",
+     "description": "Suddenly worried about danger."
+    },
+    {
+     "name": "Disconcerted",
+     "emoji": "😳",
+     "description": "Thrown off balance."
+    },
+    {
+     "name": "Disturbed",
+     "emoji": "😦",
+     "description": "Troubled in mind."
+    },
+    {
+     "name": "Perturbed",
+     "emoji": "😯",
+     "description": "Anxiously bothered."
+    },
+    {
+     "name": "Rattled",
+     "emoji": "🥴",
+     "description": "Shaken and unsettled."
+    },
+    {
+     "name": "Restless",
+     "emoji": "🦵",
+     "description": "Unable to settle."
+    },
+    {
+     "name": "Shocked",
+     "emoji": "🤯",
+     "description": "Hit by something sudden."
+    },
+    {
+     "name": "Surprised",
+     "emoji": "😮",
+     "description": "Caught off guard."
+    },
+    {
+     "name": "Troubled",
+     "emoji": "🌧️",
+     "description": "Weighed down by concern."
+    },
+    {
+     "name": "Unsettled",
+     "emoji": "🌀",
+     "description": "Not at ease."
+    },
+    {
+     "name": "Stunned",
+     "emoji": "😶‍🌫️",
+     "description": "Struck still by something."
+    },
+    {
+     "name": "Jolted",
+     "emoji": "🔌",
+     "description": "Shaken by something sudden."
+    }
+   ]
+  },
+  {
+   "name": "Embarrassed",
+   "met": false,
+   "emoji": "😳",
+   "needs": [
+    "Acceptance",
+    "Respect",
+    "Belonging",
+    "Authenticity",
+    "Self-respect"
+   ],
+   "entries": [
+    {
+     "name": "Ashamed",
+     "emoji": "🙈",
+     "description": "Feeling you have fallen short."
+    },
+    {
+     "name": "Chagrined",
+     "emoji": "😅",
+     "description": "Annoyed and embarrassed at a failure."
+    },
+    {
+     "name": "Flustered",
+     "emoji": "😵‍💫",
+     "description": "Thrown into confusion."
+    },
+    {
+     "name": "Guilty",
+     "emoji": "🫣",
+     "description": "Sorry about something you did."
+    },
+    {
+     "name": "Mortified",
+     "emoji": "🥵",
+     "description": "Extremely embarrassed."
+    },
+    {
+     "name": "Self-conscious",
+     "emoji": "🪞",
+     "description": "Keenly aware of being watched."
+    },
+    {
+     "name": "Awkward",
+     "emoji": "🙃",
+     "description": "Out of place and unsure how to act."
+    },
+    {
+     "name": "Sheepish",
+     "emoji": "🐑",
+     "description": "Bashful about a small slip."
+    }
+   ]
+  },
+  {
+   "name": "Fatigue",
+   "met": false,
+   "emoji": "🥱",
+   "needs": [
+    "Rest",
+    "Ease",
+    "Support",
+    "Nurturing",
+    "Movement"
+   ],
+   "entries": [
+    {
+     "name": "Burnt out",
+     "emoji": "🕯️",
+     "description": "Used up by long strain."
+    },
+    {
+     "name": "Depleted",
+     "emoji": "🪫",
+     "description": "Resources run low."
+    },
+    {
+     "name": "Exhausted",
+     "emoji": "😩",
+     "description": "Out of energy."
+    },
+    {
+     "name": "Lethargic",
+     "emoji": "🦥",
+     "description": "Sluggish and slow."
+    },
+    {
+     "name": "Listless",
+     "emoji": "🍂",
+     "description": "Without energy or interest."
+    },
+    {
+     "name": "Sleepy",
+     "emoji": "🛌",
+     "description": "Ready for sleep."
+    },
+    {
+     "name": "Tired",
+     "emoji": "😪",
+     "description": "In need of rest."
+    },
+    {
+     "name": "Weary",
+     "emoji": "🧳",
+     "description": "Worn down over time."
+    },
+    {
+     "name": "Worn out",
+     "emoji": "🧦",
+     "description": "Used up and frayed."
+    },
+    {
+     "name": "Drained",
+     "emoji": "🪫",
+     "description": "Emptied of energy."
+    },
+    {
+     "name": "Run down",
+     "emoji": "🚧",
+     "description": "Low and worn."
+    },
+    {
+     "name": "Spent",
+     "emoji": "🧾",
+     "description": "Nothing left to give."
+    }
+   ]
+  },
+  {
+   "name": "Pain",
+   "met": false,
+   "emoji": "💔",
+   "needs": [
+    "Compassion",
+    "Empathy",
+    "Support",
+    "Mourning",
+    "Comfort",
+    "Connection"
+   ],
+   "entries": [
+    {
+     "name": "Agony",
+     "emoji": "🩸",
+     "description": "Intense suffering."
+    },
+    {
+     "name": "Anguished",
+     "emoji": "😭",
+     "description": "Deeply tormented."
+    },
+    {
+     "name": "Bereaved",
+     "emoji": "🪦",
+     "description": "Grieving a loss."
+    },
+    {
+     "name": "Devastated",
+     "emoji": "💔",
+     "description": "Shattered by something."
+    },
+    {
+     "name": "Grief",
+     "emoji": "🥀",
+     "description": "Deep sorrow over a loss."
+    },
+    {
+     "name": "Hurt",
+     "emoji": "🤕",
+     "description": "Wounded emotionally."
+    },
+    {
+     "name": "Lonely",
+     "emoji": "🏚️",
+     "description": "Missing company and closeness."
+    },
+    {
+     "name": "Miserable",
+     "emoji": "☁️",
+     "description": "Unhappy and uncomfortable."
+    },
+    {
+     "name": "Regretful",
+     "emoji": "😔",
+     "description": "Wishing you had done differently."
+    },
+    {
+     "name": "Remorseful",
+     "emoji": "🍁",
+     "description": "Sorrow for harm you caused."
+    },
+    {
+     "name": "Aching",
+     "emoji": "🩻",
+     "description": "A lingering emotional or physical hurt."
+    },
+    {
+     "name": "Crushed",
+     "emoji": "🥫",
+     "description": "Flattened by something painful."
+    },
+    {
+     "name": "Wounded",
+     "emoji": "🩸",
+     "description": "Deeply hurt."
+    },
+    {
+     "name": "Mournful",
+     "emoji": "⚫",
+     "description": "Full of sorrow for a loss."
+    }
+   ]
+  },
+  {
+   "name": "Sad",
+   "met": false,
+   "emoji": "😢",
+   "needs": [
+    "Hope",
+    "Comfort",
+    "Connection",
+    "Mourning",
+    "Meaning",
+    "Support"
+   ],
+   "entries": [
+    {
+     "name": "Depressed",
+     "emoji": "🌑",
+     "description": "Low and without drive."
+    },
+    {
+     "name": "Dejected",
+     "emoji": "📉",
+     "description": "Downhearted after a setback."
+    },
+    {
+     "name": "Despair",
+     "emoji": "🕳️",
+     "description": "Having lost hope."
+    },
+    {
+     "name": "Disappointed",
+     "emoji": "😞",
+     "description": "Let down by how things turned out."
+    },
+    {
+     "name": "Discouraged",
+     "emoji": "🥺",
+     "description": "Having lost confidence or courage."
+    },
+    {
+     "name": "Disheartened",
+     "emoji": "😢",
+     "description": "Dispirited and low."
+    },
+    {
+     "name": "Forlorn",
+     "emoji": "🥀",
+     "description": "Pitifully alone and sad."
+    },
+    {
+     "name": "Gloomy",
+     "emoji": "🌫️",
+     "description": "Dark in mood."
+    },
+    {
+     "name": "Heavy-hearted",
+     "emoji": "🪨",
+     "description": "Weighed down by sorrow."
+    },
+    {
+     "name": "Hopeless",
+     "emoji": "⛓️",
+     "description": "Seeing no way forward."
+    },
+    {
+     "name": "Melancholy",
+     "emoji": "🎻",
+     "description": "Quietly and thoughtfully sad."
+    },
+    {
+     "name": "Unhappy",
+     "emoji": "🙍",
+     "description": "Not content."
+    },
+    {
+     "name": "Blue",
+     "emoji": "🫐",
+     "description": "Low in mood."
+    },
+    {
+     "name": "Down",
+     "emoji": "⬇️",
+     "description": "Low in spirits."
+    },
+    {
+     "name": "Glum",
+     "emoji": "🌥️",
+     "description": "Quietly low."
+    },
+    {
+     "name": "Sorrowful",
+     "emoji": "🥀",
+     "description": "Full of sorrow."
+    },
+    {
+     "name": "Tearful",
+     "emoji": "😿",
+     "description": "Close to or in tears."
+    }
+   ]
+  },
+  {
+   "name": "Tense",
+   "met": false,
+   "emoji": "😬",
+   "needs": [
+    "Ease",
+    "Rest",
+    "Peace",
+    "Support",
+    "Space",
+    "Order"
+   ],
+   "entries": [
+    {
+     "name": "Anxious",
+     "emoji": "😰",
+     "description": "Worried and keyed up."
+    },
+    {
+     "name": "Cranky",
+     "emoji": "😾",
+     "description": "Short-tempered and tired."
+    },
+    {
+     "name": "Distressed",
+     "emoji": "🆘",
+     "description": "Suffering strain or pain."
+    },
+    {
+     "name": "Distraught",
+     "emoji": "💥",
+     "description": "Deeply upset and shaken."
+    },
+    {
+     "name": "Edgy",
+     "emoji": "🔪",
+     "description": "Tense and quick to react."
+    },
+    {
+     "name": "Fidgety",
+     "emoji": "🪀",
+     "description": "Unable to keep still."
+    },
+    {
+     "name": "Frazzled",
+     "emoji": "🧶",
+     "description": "Worn thin by stress."
+    },
+    {
+     "name": "Irritable",
+     "emoji": "🌵",
+     "description": "Easily set off."
+    },
+    {
+     "name": "Jittery",
+     "emoji": "☕",
+     "description": "Nervously jumpy."
+    },
+    {
+     "name": "Nervous",
+     "emoji": "🤞",
+     "description": "Uneasy about what is coming."
+    },
+    {
+     "name": "Overwhelmed",
+     "emoji": "🌊",
+     "description": "More than you can handle."
+    },
+    {
+     "name": "Stressed out",
+     "emoji": "🧨",
+     "description": "Under heavy pressure."
+    },
+    {
+     "name": "Uptight",
+     "emoji": "🪢",
+     "description": "Wound tight."
+    },
+    {
+     "name": "Overextended",
+     "emoji": "📏",
+     "description": "Stretched past your limits."
+    },
+    {
+     "name": "Keyed up",
+     "emoji": "🎛️",
+     "description": "Wired and on alert."
+    },
+    {
+     "name": "On edge",
+     "emoji": "🧗",
+     "description": "Ready to snap."
+    }
+   ]
+  },
+  {
+   "name": "Vulnerable",
+   "met": false,
+   "emoji": "🥚",
+   "needs": [
+    "Safety",
+    "Security",
+    "Acceptance",
+    "Support",
+    "Trust",
+    "Empathy"
+   ],
+   "entries": [
+    {
+     "name": "Fragile",
+     "emoji": "🥚",
+     "description": "Easily hurt."
+    },
+    {
+     "name": "Guarded",
+     "emoji": "🧱",
+     "description": "Protecting yourself."
+    },
+    {
+     "name": "Helpless",
+     "emoji": "🍼",
+     "description": "Unable to help yourself."
+    },
+    {
+     "name": "Insecure",
+     "emoji": "🫧",
+     "description": "Unsure of your safety or worth."
+    },
+    {
+     "name": "Reserved",
+     "emoji": "🤐",
+     "description": "Holding feelings back."
+    },
+    {
+     "name": "Sensitive",
+     "emoji": "🌿",
+     "description": "Easily affected."
+    },
+    {
+     "name": "Shaky",
+     "emoji": "🫠",
+     "description": "Unsteady inside."
+    },
+    {
+     "name": "Defenseless",
+     "emoji": "🪁",
+     "description": "Without protection."
+    },
+    {
+     "name": "Timid",
+     "emoji": "🐭",
+     "description": "Shy about taking a risk."
+    },
+    {
+     "name": "Unsafe",
+     "emoji": "🚧",
+     "description": "Not protected from harm."
+    }
+   ]
+  },
+  {
+   "name": "Yearning",
+   "met": false,
+   "emoji": "🌠",
+   "needs": [
+    "Connection",
+    "Meaning",
+    "Belonging",
+    "Hope",
+    "Fairness"
+   ],
+   "entries": [
+    {
+     "name": "Envious",
+     "emoji": "💚",
+     "description": "Wanting what someone else has."
+    },
+    {
+     "name": "Jealous",
+     "emoji": "👁️",
+     "description": "Fearing loss of what you value to another."
+    },
+    {
+     "name": "Longing",
+     "emoji": "🧣",
+     "description": "Wanting something far off."
+    },
+    {
+     "name": "Nostalgic",
+     "emoji": "📼",
+     "description": "Missing the past."
+    },
+    {
+     "name": "Pining",
+     "emoji": "🌠",
+     "description": "Aching for someone or something."
+    },
+    {
+     "name": "Wistful",
+     "emoji": "🍵",
+     "description": "Gently longing."
+    },
+    {
+     "name": "Homesick",
+     "emoji": "🏠",
+     "description": "Missing home."
+    },
+    {
+     "name": "Hungry for",
+     "emoji": "🍽️",
+     "description": "Craving something you lack."
+    }
+   ]
+  }
+ ],
+ "need_groups": [
+  {
+   "name": "Connection",
+   "entries": [
+    {
+     "name": "Acceptance",
+     "emoji": "🫶",
+     "description": "To be taken as you are."
+    },
+    {
+     "name": "Affection",
+     "emoji": "🤗",
+     "description": "To give and receive warmth."
+    },
+    {
+     "name": "Appreciation",
+     "emoji": "🙏",
+     "description": "To value and be valued."
+    },
+    {
+     "name": "Belonging",
+     "emoji": "🏘️",
+     "description": "To be part of a group."
+    },
+    {
+     "name": "Closeness",
+     "emoji": "🧑‍🤝‍🧑",
+     "description": "To be near and bonded."
+    },
+    {
+     "name": "Communication",
+     "emoji": "💬",
+     "description": "To exchange thoughts and feelings."
+    },
+    {
+     "name": "Community",
+     "emoji": "🏡",
+     "description": "To share life with others."
+    },
+    {
+     "name": "Companionship",
+     "emoji": "🐕",
+     "description": "To have someone beside you."
+    },
+    {
+     "name": "Compassion",
+     "emoji": "💞",
+     "description": "To meet suffering with care."
+    },
+    {
+     "name": "Connection",
+     "emoji": "🔗",
+     "description": "To feel linked with others."
+    },
+    {
+     "name": "Consideration",
+     "emoji": "🎁",
+     "description": "To be thought of by others."
+    },
+    {
+     "name": "Cooperation",
+     "emoji": "🧩",
+     "description": "To work together toward shared aims."
+    },
+    {
+     "name": "Consistency",
+     "emoji": "📏",
+     "description": "To rely on things staying steady."
+    },
+    {
+     "name": "Empathy",
+     "emoji": "👂",
+     "description": "To be heard and understood with feeling."
+    },
+    {
+     "name": "Inclusion",
+     "emoji": "🫂",
+     "description": "To be welcomed into things."
+    },
+    {
+     "name": "Intimacy",
+     "emoji": "💑",
+     "description": "To share deeply with someone."
+    },
+    {
+     "name": "Love",
+     "emoji": "❤️",
+     "description": "To care and be cared for."
+    },
+    {
+     "name": "Mutuality",
+     "emoji": "🔁",
+     "description": "To give and take in balance."
+    },
+    {
+     "name": "Nurturing",
+     "emoji": "🌼",
+     "description": "To tend and be tended."
+    },
+    {
+     "name": "Respect",
+     "emoji": "🎩",
+     "description": "To be treated as worthy."
+    },
+    {
+     "name": "Support",
+     "emoji": "🪜",
+     "description": "To have help when needed."
+    },
+    {
+     "name": "Trust",
+     "emoji": "🤲",
+     "description": "To be able to rely on others."
+    },
+    {
+     "name": "Understanding",
+     "emoji": "🧩",
+     "description": "To grasp and be grasped by others."
+    },
+    {
+     "name": "Warmth",
+     "emoji": "🔥",
+     "description": "To feel the kindness of others."
+    },
+    {
+     "name": "Acknowledgment",
+     "emoji": "📣",
+     "description": "To have what you do and feel noticed."
+    },
+    {
+     "name": "Attention",
+     "emoji": "👀",
+     "description": "To be given focus by others."
+    },
+    {
+     "name": "Availability",
+     "emoji": "📞",
+     "description": "To know someone can be reached."
+    },
+    {
+     "name": "Collaboration",
+     "emoji": "👥",
+     "description": "To build something together."
+    },
+    {
+     "name": "Commitment",
+     "emoji": "🪢",
+     "description": "To rely on promises being kept."
+    },
+    {
+     "name": "Friendship",
+     "emoji": "🧑‍🤝‍🧑",
+     "description": "To have people who choose you."
+    },
+    {
+     "name": "Gentleness",
+     "emoji": "🪶",
+     "description": "To be treated softly."
+    },
+    {
+     "name": "Kindness",
+     "emoji": "🌸",
+     "description": "To meet and be met with care."
+    },
+    {
+     "name": "Loyalty",
+     "emoji": "🐕",
+     "description": "To count on others standing by you."
+    },
+    {
+     "name": "Patience",
+     "emoji": "⏳",
+     "description": "To be given time."
+    },
+    {
+     "name": "Predictability",
+     "emoji": "🗓️",
+     "description": "To know what to expect."
+    },
+    {
+     "name": "Reassurance",
+     "emoji": "🫶",
+     "description": "To be told things are okay."
+    },
+    {
+     "name": "Recognition",
+     "emoji": "🏅",
+     "description": "To be seen for what you have done."
+    },
+    {
+     "name": "Reliability",
+     "emoji": "⚙️",
+     "description": "To count on others following through."
+    },
+    {
+     "name": "Responsiveness",
+     "emoji": "📬",
+     "description": "To get a reply when you reach out."
+    },
+    {
+     "name": "Sharing",
+     "emoji": "🍰",
+     "description": "To give and take what you have."
+    },
+    {
+     "name": "Teamwork",
+     "emoji": "🚣",
+     "description": "To pull together with others."
+    },
+    {
+     "name": "Validation",
+     "emoji": "✅",
+     "description": "To have your experience taken as real."
+    }
+   ]
+  },
+  {
+   "name": "Physical well-being",
+   "entries": [
+    {
+     "name": "Air",
+     "emoji": "🌬️",
+     "description": "To breathe fresh air."
+    },
+    {
+     "name": "Comfort",
+     "emoji": "🧸",
+     "description": "To be physically and emotionally at ease."
+    },
+    {
+     "name": "Food",
+     "emoji": "🍎",
+     "description": "To be fed and nourished."
+    },
+    {
+     "name": "Movement",
+     "emoji": "🏃",
+     "description": "To move and exercise."
+    },
+    {
+     "name": "Rest",
+     "emoji": "🛌",
+     "description": "To sleep and recover."
+    },
+    {
+     "name": "Safety",
+     "emoji": "🛡️",
+     "description": "To be free from harm."
+    },
+    {
+     "name": "Security",
+     "emoji": "🔐",
+     "description": "To feel protected."
+    },
+    {
+     "name": "Shelter",
+     "emoji": "🏠",
+     "description": "To have a safe place to live."
+    },
+    {
+     "name": "Touch",
+     "emoji": "🤚",
+     "description": "To be physically in contact."
+    },
+    {
+     "name": "Water",
+     "emoji": "🚰",
+     "description": "To have water to drink."
+    },
+    {
+     "name": "Balance",
+     "emoji": "⚖️",
+     "description": "To feel steady across the parts of life."
+    },
+    {
+     "name": "Exercise",
+     "emoji": "🏋️",
+     "description": "To use and strengthen your body."
+    },
+    {
+     "name": "Health",
+     "emoji": "🩺",
+     "description": "To be physically and mentally well."
+    },
+    {
+     "name": "Healing",
+     "emoji": "🩹",
+     "description": "To recover and mend."
+    },
+    {
+     "name": "Privacy",
+     "emoji": "🔏",
+     "description": "To keep parts of life to yourself."
+    },
+    {
+     "name": "Self-care",
+     "emoji": "🛁",
+     "description": "To look after your own wellbeing."
+    }
+   ]
+  },
+  {
+   "name": "Honesty",
+   "entries": [
+    {
+     "name": "Authenticity",
+     "emoji": "🪞",
+     "description": "To be true to yourself."
+    },
+    {
+     "name": "Honesty",
+     "emoji": "🔎",
+     "description": "To tell and hear the truth."
+    },
+    {
+     "name": "Integrity",
+     "emoji": "⚓",
+     "description": "To act in line with your values."
+    },
+    {
+     "name": "Presence",
+     "emoji": "🧘",
+     "description": "To be fully here."
+    },
+    {
+     "name": "Self-respect",
+     "emoji": "👑",
+     "description": "To honor your own worth."
+    },
+    {
+     "name": "Accountability",
+     "emoji": "🧾",
+     "description": "To see people own what they did."
+    },
+    {
+     "name": "Dignity",
+     "emoji": "🎖️",
+     "description": "To be treated as having inherent worth."
+    },
+    {
+     "name": "Honor",
+     "emoji": "🏛️",
+     "description": "To live up to what you hold dear."
+    },
+    {
+     "name": "Justice",
+     "emoji": "⚖️",
+     "description": "To see wrongs put right."
+    },
+    {
+     "name": "Responsibility",
+     "emoji": "🧳",
+     "description": "To own your part and let others own theirs."
+    },
+    {
+     "name": "Transparency",
+     "emoji": "🪟",
+     "description": "To see what is going on."
+    },
+    {
+     "name": "Truth",
+     "emoji": "🔎",
+     "description": "To know what is real."
+    }
+   ]
+  },
+  {
+   "name": "Play",
+   "entries": [
+    {
+     "name": "Humor",
+     "emoji": "😂",
+     "description": "To laugh and be lighthearted."
+    },
+    {
+     "name": "Joy",
+     "emoji": "😄",
+     "description": "To feel delight."
+    },
+    {
+     "name": "Play",
+     "emoji": "🎲",
+     "description": "To do things for the fun of it."
+    },
+    {
+     "name": "Adventure",
+     "emoji": "🧭",
+     "description": "To try something new and a bit risky."
+    },
+    {
+     "name": "Fun",
+     "emoji": "🎡",
+     "description": "To enjoy yourself."
+    },
+    {
+     "name": "Lightness",
+     "emoji": "🎈",
+     "description": "To not take everything heavily."
+    },
+    {
+     "name": "Pleasure",
+     "emoji": "🍷",
+     "description": "To enjoy what is good."
+    }
+   ]
+  },
+  {
+   "name": "Peace",
+   "entries": [
+    {
+     "name": "Beauty",
+     "emoji": "🎨",
+     "description": "To experience what moves the senses."
+    },
+    {
+     "name": "Communion",
+     "emoji": "🕊️",
+     "description": "To feel at one with something larger."
+    },
+    {
+     "name": "Ease",
+     "emoji": "🛋️",
+     "description": "To have things flow without effort."
+    },
+    {
+     "name": "Equality",
+     "emoji": "⚖️",
+     "description": "To be on equal footing."
+    },
+    {
+     "name": "Fairness",
+     "emoji": "🤝",
+     "description": "To be treated justly."
+    },
+    {
+     "name": "Harmony",
+     "emoji": "🎼",
+     "description": "To have things fit together."
+    },
+    {
+     "name": "Inspiration",
+     "emoji": "💡",
+     "description": "To be moved toward what is possible."
+    },
+    {
+     "name": "Order",
+     "emoji": "🗂️",
+     "description": "To have structure and clarity."
+    },
+    {
+     "name": "Orientation",
+     "emoji": "🧭",
+     "description": "To know where things stand."
+    },
+    {
+     "name": "Peace",
+     "emoji": "☮️",
+     "description": "To have inner and outer calm."
+    },
+    {
+     "name": "Stability",
+     "emoji": "🏛️",
+     "description": "To have steady ground."
+    },
+    {
+     "name": "Calm",
+     "emoji": "😌",
+     "description": "To be free of agitation."
+    },
+    {
+     "name": "Closure",
+     "emoji": "🚪",
+     "description": "To have things feel finished."
+    },
+    {
+     "name": "Flexibility",
+     "emoji": "🤸",
+     "description": "To adapt without strain."
+    },
+    {
+     "name": "Forgiveness",
+     "emoji": "🕊️",
+     "description": "To let go of what was done."
+    },
+    {
+     "name": "Quiet",
+     "emoji": "🤫",
+     "description": "To have less noise and demand."
+    },
+    {
+     "name": "Reconciliation",
+     "emoji": "🤝",
+     "description": "To mend what was broken between you."
+    },
+    {
+     "name": "Simplicity",
+     "emoji": "🪴",
+     "description": "To keep things uncomplicated."
+    },
+    {
+     "name": "Solitude",
+     "emoji": "🏞️",
+     "description": "To be alone and at peace."
+    }
+   ]
+  },
+  {
+   "name": "Autonomy",
+   "entries": [
+    {
+     "name": "Autonomy",
+     "emoji": "🦅",
+     "description": "To make your own decisions."
+    },
+    {
+     "name": "Choice",
+     "emoji": "🔱",
+     "description": "To have options."
+    },
+    {
+     "name": "Freedom",
+     "emoji": "🕊️",
+     "description": "To act without restraint."
+    },
+    {
+     "name": "Independence",
+     "emoji": "🧗",
+     "description": "To stand on your own."
+    },
+    {
+     "name": "Space",
+     "emoji": "🌌",
+     "description": "To have room to be."
+    },
+    {
+     "name": "Spontaneity",
+     "emoji": "🎈",
+     "description": "To act on the moment."
+    },
+    {
+     "name": "Boundaries",
+     "emoji": "🚧",
+     "description": "To have limits that others respect."
+    },
+    {
+     "name": "Self-determination",
+     "emoji": "🧭",
+     "description": "To steer your own life."
+    }
+   ]
+  },
+  {
+   "name": "Meaning",
+   "entries": [
+    {
+     "name": "Celebration of life",
+     "emoji": "🎂",
+     "description": "To celebrate what is."
+    },
+    {
+     "name": "Challenge",
+     "emoji": "🏔️",
+     "description": "To stretch toward something hard."
+    },
+    {
+     "name": "Clarity",
+     "emoji": "🔭",
+     "description": "To see things plainly."
+    },
+    {
+     "name": "Competence",
+     "emoji": "🛠️",
+     "description": "To be capable at what you do."
+    },
+    {
+     "name": "Contribution",
+     "emoji": "🌍",
+     "description": "To add to others' lives."
+    },
+    {
+     "name": "Creativity",
+     "emoji": "🖌️",
+     "description": "To make something new."
+    },
+    {
+     "name": "Discovery",
+     "emoji": "🗺️",
+     "description": "To find out new things."
+    },
+    {
+     "name": "Efficacy",
+     "emoji": "🎯",
+     "description": "To see your actions make a difference."
+    },
+    {
+     "name": "Effectiveness",
+     "emoji": "📈",
+     "description": "To get what you set out to do."
+    },
+    {
+     "name": "Growth",
+     "emoji": "🌱",
+     "description": "To develop and change."
+    },
+    {
+     "name": "Hope",
+     "emoji": "🌈",
+     "description": "To believe things can improve."
+    },
+    {
+     "name": "Learning",
+     "emoji": "📚",
+     "description": "To gain knowledge and skill."
+    },
+    {
+     "name": "Meaning",
+     "emoji": "🌟",
+     "description": "To feel life has significance."
+    },
+    {
+     "name": "Mourning",
+     "emoji": "🕯️",
+     "description": "To grieve what has been lost."
+    },
+    {
+     "name": "Participation",
+     "emoji": "🙋",
+     "description": "To take part."
+    },
+    {
+     "name": "Purpose",
+     "emoji": "🚩",
+     "description": "To work toward something that matters."
+    },
+    {
+     "name": "Self-expression",
+     "emoji": "🗣️",
+     "description": "To show who you are."
+    },
+    {
+     "name": "Stimulation",
+     "emoji": "⚡",
+     "description": "To be mentally or physically stirred."
+    },
+    {
+     "name": "To matter",
+     "emoji": "🙌",
+     "description": "To make a difference to someone."
+    },
+    {
+     "name": "Accomplishment",
+     "emoji": "🏆",
+     "description": "To finish and feel proud of it."
+    },
+    {
+     "name": "Curiosity",
+     "emoji": "🔍",
+     "description": "To wonder and explore."
+    },
+    {
+     "name": "Exploration",
+     "emoji": "🗺️",
+     "description": "To go and find out."
+    },
+    {
+     "name": "Faith",
+     "emoji": "🕯️",
+     "description": "To trust in something beyond yourself."
+    },
+    {
+     "name": "Imagination",
+     "emoji": "🪄",
+     "description": "To picture what could be."
+    },
+    {
+     "name": "Initiative",
+     "emoji": "🚦",
+     "description": "To start things yourself."
+    },
+    {
+     "name": "Legacy",
+     "emoji": "🌳",
+     "description": "To leave something that lasts."
+    },
+    {
+     "name": "Mastery",
+     "emoji": "🥋",
+     "description": "To become truly skilled."
+    },
+    {
+     "name": "Self-acceptance",
+     "emoji": "🪞",
+     "description": "To be at peace with who you are."
+    },
+    {
+     "name": "Self-compassion",
+     "emoji": "💞",
+     "description": "To meet your own pain with kindness."
+    },
+    {
+     "name": "Spirituality",
+     "emoji": "🙏",
+     "description": "To connect with something sacred."
+    },
+    {
+     "name": "Success",
+     "emoji": "📊",
+     "description": "To reach what you aimed for."
+    }
+   ]
+  }
+ ],
+ "faux_feelings": [
+  {
+   "name": "Abandoned",
+   "emoji": "🏝️",
+   "description": "Interpretation that someone left you on your own.",
+   "feelings": [
+    "Scared",
+    "Lonely",
+    "Hurt"
+   ],
+   "needs": [
+    "Companionship",
+    "Support",
+    "Belonging"
+   ]
+  },
+  {
+   "name": "Abused",
+   "emoji": "🚫",
+   "description": "Interpretation that someone is mistreating you.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Safety",
+    "Respect",
+    "Consideration"
+   ]
+  },
+  {
+   "name": "Attacked",
+   "emoji": "⚔️",
+   "description": "Interpretation that someone is hostile to you.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Alarmed"
+   ],
+   "needs": [
+    "Safety",
+    "Respect",
+    "Peace"
+   ]
+  },
+  {
+   "name": "Betrayed",
+   "emoji": "🗡️",
+   "description": "Interpretation that someone broke your trust.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Disappointed"
+   ],
+   "needs": [
+    "Trust",
+    "Integrity",
+    "Consistency"
+   ]
+  },
+  {
+   "name": "Blamed",
+   "emoji": "👉",
+   "description": "Interpretation that someone holds you at fault.",
+   "feelings": [
+    "Hurt",
+    "Guarded",
+    "Frustrated"
+   ],
+   "needs": [
+    "Understanding",
+    "Fairness",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Bullied",
+   "emoji": "😈",
+   "description": "Interpretation that someone is pushing you around.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Safety",
+    "Respect",
+    "Autonomy"
+   ]
+  },
+  {
+   "name": "Cheated",
+   "emoji": "🃏",
+   "description": "Interpretation that someone dealt with you unfairly.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Resentful"
+   ],
+   "needs": [
+    "Fairness",
+    "Trust",
+    "Integrity"
+   ]
+  },
+  {
+   "name": "Coerced",
+   "emoji": "🔗",
+   "description": "Interpretation that you were forced into something.",
+   "feelings": [
+    "Angry",
+    "Frustrated",
+    "Scared"
+   ],
+   "needs": [
+    "Choice",
+    "Autonomy",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Cornered",
+   "emoji": "🪤",
+   "description": "Interpretation that you have no way out.",
+   "feelings": [
+    "Scared",
+    "Helpless",
+    "Overwhelmed"
+   ],
+   "needs": [
+    "Choice",
+    "Freedom",
+    "Safety"
+   ]
+  },
+  {
+   "name": "Criticized",
+   "emoji": "🧐",
+   "description": "Interpretation that someone is finding fault with you.",
+   "feelings": [
+    "Hurt",
+    "Embarrassed",
+    "Frustrated"
+   ],
+   "needs": [
+    "Acceptance",
+    "Appreciation",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Dismissed",
+   "emoji": "🙅",
+   "description": "Interpretation that someone waved you off.",
+   "feelings": [
+    "Hurt",
+    "Frustrated",
+    "Lonely"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Disrespected",
+   "emoji": "🖕",
+   "description": "Interpretation that someone does not value you.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Frustrated"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Distrusted",
+   "emoji": "🔍",
+   "description": "Interpretation that someone does not believe you.",
+   "feelings": [
+    "Hurt",
+    "Frustrated",
+    "Sad"
+   ],
+   "needs": [
+    "Trust",
+    "Understanding",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Diminished",
+   "emoji": "🔻",
+   "description": "Interpretation that someone makes you feel small.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Appreciation",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Ignored",
+   "emoji": "🙉",
+   "description": "Interpretation that someone is not noticing you.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Connection",
+    "Consideration",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Insulted",
+   "emoji": "💥",
+   "description": "Interpretation that someone demeaned you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Interrupted",
+   "emoji": "✋",
+   "description": "Interpretation that someone cut you off.",
+   "feelings": [
+    "Annoyed",
+    "Frustrated",
+    "Hurt"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Communication"
+   ]
+  },
+  {
+   "name": "Intimidated",
+   "emoji": "😨",
+   "description": "Interpretation that someone is trying to scare you.",
+   "feelings": [
+    "Scared",
+    "Wary",
+    "Angry"
+   ],
+   "needs": [
+    "Safety",
+    "Respect",
+    "Autonomy"
+   ]
+  },
+  {
+   "name": "Invisible",
+   "emoji": "🫥",
+   "description": "Interpretation that nobody sees you.",
+   "feelings": [
+    "Lonely",
+    "Sad",
+    "Hurt"
+   ],
+   "needs": [
+    "To matter",
+    "Connection",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Isolated",
+   "emoji": "🏝️",
+   "description": "Interpretation that you are cut off from others.",
+   "feelings": [
+    "Lonely",
+    "Sad",
+    "Anxious"
+   ],
+   "needs": [
+    "Connection",
+    "Belonging",
+    "Companionship"
+   ]
+  },
+  {
+   "name": "Judged",
+   "emoji": "⚖️",
+   "description": "Interpretation that someone is evaluating you harshly.",
+   "feelings": [
+    "Hurt",
+    "Embarrassed",
+    "Wary"
+   ],
+   "needs": [
+    "Acceptance",
+    "Understanding",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Left out",
+   "emoji": "🚪",
+   "description": "Interpretation that you were excluded.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Inclusion",
+    "Belonging",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Let down",
+   "emoji": "📉",
+   "description": "Interpretation that someone did not come through.",
+   "feelings": [
+    "Disappointed",
+    "Sad",
+    "Frustrated"
+   ],
+   "needs": [
+    "Trust",
+    "Consistency",
+    "Support"
+   ]
+  },
+  {
+   "name": "Manipulated",
+   "emoji": "🎭",
+   "description": "Interpretation that someone is steering you for their ends.",
+   "feelings": [
+    "Angry",
+    "Wary",
+    "Resentful"
+   ],
+   "needs": [
+    "Autonomy",
+    "Honesty",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Misjudged",
+   "emoji": "🎯",
+   "description": "Interpretation that someone got you wrong.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Understanding",
+    "Acceptance",
+    "Authenticity"
+   ]
+  },
+  {
+   "name": "Misunderstood",
+   "emoji": "🤷",
+   "description": "Interpretation that someone did not get what you meant.",
+   "feelings": [
+    "Frustrated",
+    "Lonely",
+    "Sad"
+   ],
+   "needs": [
+    "Understanding",
+    "Empathy",
+    "Communication"
+   ]
+  },
+  {
+   "name": "Neglected",
+   "emoji": "🥀",
+   "description": "Interpretation that your needs are being overlooked.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Consideration",
+    "Nurturing",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Overlooked",
+   "emoji": "🔭",
+   "description": "Interpretation that someone failed to notice you.",
+   "feelings": [
+    "Hurt",
+    "Disappointed",
+    "Sad"
+   ],
+   "needs": [
+    "Appreciation",
+    "To matter",
+    "Inclusion"
+   ]
+  },
+  {
+   "name": "Patronized",
+   "emoji": "👶",
+   "description": "Interpretation that someone talks down to you.",
+   "feelings": [
+    "Annoyed",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Respect",
+    "Equality",
+    "Autonomy"
+   ]
+  },
+  {
+   "name": "Pressured",
+   "emoji": "🗜️",
+   "description": "Interpretation that someone is pushing you to act.",
+   "feelings": [
+    "Tense",
+    "Anxious",
+    "Frustrated"
+   ],
+   "needs": [
+    "Choice",
+    "Autonomy",
+    "Ease"
+   ]
+  },
+  {
+   "name": "Provoked",
+   "emoji": "🧨",
+   "description": "Interpretation that someone is baiting you.",
+   "feelings": [
+    "Angry",
+    "Irritated",
+    "Tense"
+   ],
+   "needs": [
+    "Respect",
+    "Peace",
+    "Consideration"
+   ]
+  },
+  {
+   "name": "Put down",
+   "emoji": "⬇️",
+   "description": "Interpretation that someone belittled you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Appreciation",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Rejected",
+   "emoji": "🚫",
+   "description": "Interpretation that someone turned you away.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Lonely"
+   ],
+   "needs": [
+    "Acceptance",
+    "Belonging",
+    "Love"
+   ]
+  },
+  {
+   "name": "Ridiculed",
+   "emoji": "🤡",
+   "description": "Interpretation that someone made fun of you.",
+   "feelings": [
+    "Hurt",
+    "Embarrassed",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Acceptance",
+    "Consideration"
+   ]
+  },
+  {
+   "name": "Rushed",
+   "emoji": "🏎️",
+   "description": "Interpretation that you are not given enough time.",
+   "feelings": [
+    "Tense",
+    "Anxious",
+    "Frustrated"
+   ],
+   "needs": [
+    "Ease",
+    "Space",
+    "Consideration"
+   ]
+  },
+  {
+   "name": "Smothered",
+   "emoji": "🫠",
+   "description": "Interpretation that someone gives you no room.",
+   "feelings": [
+    "Annoyed",
+    "Tense",
+    "Frustrated"
+   ],
+   "needs": [
+    "Space",
+    "Autonomy",
+    "Independence"
+   ]
+  },
+  {
+   "name": "Taken for granted",
+   "emoji": "🛋️",
+   "description": "Interpretation that your effort goes unnoticed.",
+   "feelings": [
+    "Hurt",
+    "Disappointed",
+    "Resentful"
+   ],
+   "needs": [
+    "Appreciation",
+    "Consideration",
+    "Mutuality"
+   ]
+  },
+  {
+   "name": "Threatened",
+   "emoji": "⚠️",
+   "description": "Interpretation that someone may harm you.",
+   "feelings": [
+    "Scared",
+    "Alarmed",
+    "Angry"
+   ],
+   "needs": [
+    "Safety",
+    "Security",
+    "Peace"
+   ]
+  },
+  {
+   "name": "Trapped",
+   "emoji": "🪞",
+   "description": "Interpretation that you have no options.",
+   "feelings": [
+    "Scared",
+    "Helpless",
+    "Frustrated"
+   ],
+   "needs": [
+    "Choice",
+    "Freedom",
+    "Autonomy"
+   ]
+  },
+  {
+   "name": "Unappreciated",
+   "emoji": "🥀",
+   "description": "Interpretation that your efforts are not valued.",
+   "feelings": [
+    "Hurt",
+    "Disappointed",
+    "Sad"
+   ],
+   "needs": [
+    "Appreciation",
+    "To matter",
+    "Contribution"
+   ]
+  },
+  {
+   "name": "Unheard",
+   "emoji": "🔇",
+   "description": "Interpretation that nobody is listening.",
+   "feelings": [
+    "Frustrated",
+    "Lonely",
+    "Hurt"
+   ],
+   "needs": [
+    "Understanding",
+    "Empathy",
+    "Communication"
+   ]
+  },
+  {
+   "name": "Unloved",
+   "emoji": "💔",
+   "description": "Interpretation that nobody cares for you.",
+   "feelings": [
+    "Sad",
+    "Lonely",
+    "Hurt"
+   ],
+   "needs": [
+    "Love",
+    "Affection",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Unsupported",
+   "emoji": "🧗",
+   "description": "Interpretation that no one has your back.",
+   "feelings": [
+    "Overwhelmed",
+    "Lonely",
+    "Tense"
+   ],
+   "needs": [
+    "Support",
+    "Cooperation",
+    "Companionship"
+   ]
+  },
+  {
+   "name": "Unwanted",
+   "emoji": "🗑️",
+   "description": "Interpretation that nobody wants you around.",
+   "feelings": [
+    "Hurt",
+    "Lonely",
+    "Sad"
+   ],
+   "needs": [
+    "Belonging",
+    "Acceptance",
+    "Love"
+   ]
+  },
+  {
+   "name": "Used",
+   "emoji": "🍋",
+   "description": "Interpretation that someone took advantage of you.",
+   "feelings": [
+    "Angry",
+    "Resentful",
+    "Hurt"
+   ],
+   "needs": [
+    "Mutuality",
+    "Respect",
+    "Fairness"
+   ]
+  },
+  {
+   "name": "Victimized",
+   "emoji": "🩹",
+   "description": "Interpretation that you are being wronged.",
+   "feelings": [
+    "Hurt",
+    "Scared",
+    "Angry"
+   ],
+   "needs": [
+    "Safety",
+    "Fairness",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Violated",
+   "emoji": "🚨",
+   "description": "Interpretation that your boundaries were crossed.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Safety",
+    "Respect",
+    "Autonomy"
+   ]
+  },
+  {
+   "name": "Inadequate",
+   "emoji": "📏",
+   "description": "Interpretation that you are not good enough.",
+   "feelings": [
+    "Sad",
+    "Embarrassed",
+    "Discouraged"
+   ],
+   "needs": [
+    "Competence",
+    "Acceptance",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Inferior",
+   "emoji": "🪜",
+   "description": "Interpretation that you rank below others.",
+   "feelings": [
+    "Sad",
+    "Embarrassed",
+    "Hurt"
+   ],
+   "needs": [
+    "Equality",
+    "Acceptance",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Stupid",
+   "emoji": "🥴",
+   "description": "Judgment that you lack ability.",
+   "feelings": [
+    "Embarrassed",
+    "Ashamed",
+    "Discouraged"
+   ],
+   "needs": [
+    "Competence",
+    "Learning",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Useless",
+   "emoji": "🪫",
+   "description": "Judgment that you do not contribute.",
+   "feelings": [
+    "Sad",
+    "Discouraged",
+    "Hopeless"
+   ],
+   "needs": [
+    "Contribution",
+    "To matter",
+    "Efficacy"
+   ]
+  },
+  {
+   "name": "Incompetent",
+   "emoji": "🛠️",
+   "description": "Judgment that you cannot do the job.",
+   "feelings": [
+    "Discouraged",
+    "Embarrassed",
+    "Anxious"
+   ],
+   "needs": [
+    "Competence",
+    "Learning",
+    "Support"
+   ]
+  },
+  {
+   "name": "Like a failure",
+   "emoji": "📉",
+   "description": "Judgment that you did not measure up.",
+   "feelings": [
+    "Disappointed",
+    "Ashamed",
+    "Sad"
+   ],
+   "needs": [
+    "Competence",
+    "Acceptance",
+    "Hope"
+   ]
+  },
+  {
+   "name": "Worthless",
+   "emoji": "🪙",
+   "description": "Judgment that you have no value.",
+   "feelings": [
+    "Hopeless",
+    "Sad",
+    "Ashamed"
+   ],
+   "needs": [
+    "To matter",
+    "Acceptance",
+    "Love"
+   ]
+  },
+  {
+   "name": "Guilty trip",
+   "emoji": "🧳",
+   "description": "Interpretation that someone is making you feel bad to get something.",
+   "feelings": [
+    "Resentful",
+    "Tense",
+    "Annoyed"
+   ],
+   "needs": [
+    "Choice",
+    "Autonomy",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Offended",
+   "emoji": "😤",
+   "description": "Interpretation that someone insulted or crossed you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Acceptance",
+    "Dignity"
+   ]
+  },
+  {
+   "name": "Accused",
+   "emoji": "☝️",
+   "description": "Interpretation that someone says you did wrong.",
+   "feelings": [
+    "Hurt",
+    "Scared",
+    "Frustrated"
+   ],
+   "needs": [
+    "Understanding",
+    "Fairness",
+    "Trust"
+   ]
+  },
+  {
+   "name": "Ambushed",
+   "emoji": "🪤",
+   "description": "Interpretation that someone sprang something on you.",
+   "feelings": [
+    "Shocked",
+    "Angry",
+    "Wary"
+   ],
+   "needs": [
+    "Predictability",
+    "Consideration",
+    "Safety"
+   ]
+  },
+  {
+   "name": "Backstabbed",
+   "emoji": "🔪",
+   "description": "Interpretation that someone acted against you in secret.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Shocked"
+   ],
+   "needs": [
+    "Trust",
+    "Loyalty",
+    "Integrity"
+   ]
+  },
+  {
+   "name": "Belittled",
+   "emoji": "🔬",
+   "description": "Interpretation that someone made you seem small.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Appreciation",
+    "Dignity"
+   ]
+  },
+  {
+   "name": "Berated",
+   "emoji": "🗯️",
+   "description": "Interpretation that someone scolded you harshly.",
+   "feelings": [
+    "Hurt",
+    "Scared",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Kindness",
+    "Understanding"
+   ]
+  },
+  {
+   "name": "Bossed around",
+   "emoji": "👆",
+   "description": "Interpretation that someone keeps giving you orders.",
+   "feelings": [
+    "Annoyed",
+    "Resentful",
+    "Frustrated"
+   ],
+   "needs": [
+    "Autonomy",
+    "Choice",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Brushed off",
+   "emoji": "🧹",
+   "description": "Interpretation that someone did not take you seriously.",
+   "feelings": [
+    "Hurt",
+    "Frustrated",
+    "Lonely"
+   ],
+   "needs": [
+    "Attention",
+    "Respect",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Burdened",
+   "emoji": "🎒",
+   "description": "Interpretation that too much rests on you.",
+   "feelings": [
+    "Overwhelmed",
+    "Tired",
+    "Resentful"
+   ],
+   "needs": [
+    "Support",
+    "Ease",
+    "Mutuality"
+   ]
+  },
+  {
+   "name": "Censored",
+   "emoji": "🤐",
+   "description": "Interpretation that you are not allowed to speak.",
+   "feelings": [
+    "Frustrated",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Self-expression",
+    "Freedom",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Condemned",
+   "emoji": "⚰️",
+   "description": "Interpretation that someone holds you wholly in the wrong.",
+   "feelings": [
+    "Hurt",
+    "Ashamed",
+    "Hopeless"
+   ],
+   "needs": [
+    "Acceptance",
+    "Compassion",
+    "Understanding"
+   ]
+  },
+  {
+   "name": "Controlled",
+   "emoji": "🕹️",
+   "description": "Interpretation that someone is directing your choices.",
+   "feelings": [
+    "Frustrated",
+    "Resentful",
+    "Angry"
+   ],
+   "needs": [
+    "Autonomy",
+    "Choice",
+    "Freedom"
+   ]
+  },
+  {
+   "name": "Cut off",
+   "emoji": "✂️",
+   "description": "Interpretation that a link to someone was severed.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Connection",
+    "Communication",
+    "Belonging"
+   ]
+  },
+  {
+   "name": "Deceived",
+   "emoji": "🎭",
+   "description": "Interpretation that someone lied to you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Shocked"
+   ],
+   "needs": [
+    "Honesty",
+    "Trust",
+    "Truth"
+   ]
+  },
+  {
+   "name": "Demeaned",
+   "emoji": "⬇️",
+   "description": "Interpretation that someone treated you as lesser.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Dignity",
+    "Equality"
+   ]
+  },
+  {
+   "name": "Deprived",
+   "emoji": "🍽️",
+   "description": "Interpretation that you are denied what you need.",
+   "feelings": [
+    "Frustrated",
+    "Sad",
+    "Resentful"
+   ],
+   "needs": [
+    "Fairness",
+    "Support",
+    "Choice"
+   ]
+  },
+  {
+   "name": "Deserted",
+   "emoji": "🏜️",
+   "description": "Interpretation that someone left you when you needed them.",
+   "feelings": [
+    "Lonely",
+    "Scared",
+    "Hurt"
+   ],
+   "needs": [
+    "Support",
+    "Companionship",
+    "Reliability"
+   ]
+  },
+  {
+   "name": "Discounted",
+   "emoji": "🏷️",
+   "description": "Interpretation that your view was not counted.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Disappointed"
+   ],
+   "needs": [
+    "Respect",
+    "Understanding",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Discredited",
+   "emoji": "📰",
+   "description": "Interpretation that someone undermined your credibility.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Respect",
+    "Fairness",
+    "Trust"
+   ]
+  },
+  {
+   "name": "Disregarded",
+   "emoji": "🚮",
+   "description": "Interpretation that your needs were ignored.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Frustrated"
+   ],
+   "needs": [
+    "Consideration",
+    "Respect",
+    "To matter"
+   ]
+  },
+  {
+   "name": "Doubted",
+   "emoji": "🤔",
+   "description": "Interpretation that someone does not believe in you.",
+   "feelings": [
+    "Hurt",
+    "Discouraged",
+    "Frustrated"
+   ],
+   "needs": [
+    "Trust",
+    "Support",
+    "Recognition"
+   ]
+  },
+  {
+   "name": "Dumped",
+   "emoji": "🚛",
+   "description": "Interpretation that someone ended things with you abruptly.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Lonely"
+   ],
+   "needs": [
+    "Closure",
+    "Consideration",
+    "Love"
+   ]
+  },
+  {
+   "name": "Duped",
+   "emoji": "🎣",
+   "description": "Interpretation that you were tricked.",
+   "feelings": [
+    "Embarrassed",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Honesty",
+    "Trust",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Exploited",
+   "emoji": "🍋",
+   "description": "Interpretation that someone profited from you unfairly.",
+   "feelings": [
+    "Angry",
+    "Resentful",
+    "Hurt"
+   ],
+   "needs": [
+    "Fairness",
+    "Mutuality",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Excluded",
+   "emoji": "🚷",
+   "description": "Interpretation that you were left out on purpose.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Sad"
+   ],
+   "needs": [
+    "Inclusion",
+    "Belonging",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Exposed",
+   "emoji": "🔦",
+   "description": "Interpretation that something private was revealed.",
+   "feelings": [
+    "Embarrassed",
+    "Scared",
+    "Vulnerable"
+   ],
+   "needs": [
+    "Privacy",
+    "Safety",
+    "Trust"
+   ]
+  },
+  {
+   "name": "Fooled",
+   "emoji": "🃏",
+   "description": "Interpretation that someone made a fool of you.",
+   "feelings": [
+    "Embarrassed",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Honesty",
+    "Respect",
+    "Trust"
+   ]
+  },
+  {
+   "name": "Forced",
+   "emoji": "🧲",
+   "description": "Interpretation that you had no say.",
+   "feelings": [
+    "Angry",
+    "Frustrated",
+    "Helpless"
+   ],
+   "needs": [
+    "Choice",
+    "Autonomy",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Forgotten",
+   "emoji": "🗃️",
+   "description": "Interpretation that you slipped from someone's mind.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Lonely"
+   ],
+   "needs": [
+    "To matter",
+    "Consideration",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Gaslit",
+   "emoji": "🕯️",
+   "description": "Interpretation that someone is making you doubt your reality.",
+   "feelings": [
+    "Confused",
+    "Scared",
+    "Angry"
+   ],
+   "needs": [
+    "Validation",
+    "Clarity",
+    "Honesty"
+   ]
+  },
+  {
+   "name": "Guilt-tripped",
+   "emoji": "🧳",
+   "description": "Interpretation that someone is using guilt to steer you.",
+   "feelings": [
+    "Resentful",
+    "Tense",
+    "Annoyed"
+   ],
+   "needs": [
+    "Choice",
+    "Autonomy",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Harassed",
+   "emoji": "📵",
+   "description": "Interpretation that someone will not leave you alone.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Overwhelmed"
+   ],
+   "needs": [
+    "Safety",
+    "Peace",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Humiliated",
+   "emoji": "😳",
+   "description": "Interpretation that you were shamed in front of others.",
+   "feelings": [
+    "Embarrassed",
+    "Hurt",
+    "Angry"
+   ],
+   "needs": [
+    "Dignity",
+    "Respect",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Hounded",
+   "emoji": "🐕",
+   "description": "Interpretation that someone keeps chasing you.",
+   "feelings": [
+    "Tense",
+    "Annoyed",
+    "Overwhelmed"
+   ],
+   "needs": [
+    "Space",
+    "Peace",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Imposed upon",
+   "emoji": "🪨",
+   "description": "Interpretation that someone asks too much of you.",
+   "feelings": [
+    "Annoyed",
+    "Resentful",
+    "Tired"
+   ],
+   "needs": [
+    "Consideration",
+    "Choice",
+    "Mutuality"
+   ]
+  },
+  {
+   "name": "Inconvenienced",
+   "emoji": "🚧",
+   "description": "Interpretation that someone made things harder for you.",
+   "feelings": [
+    "Annoyed",
+    "Frustrated",
+    "Tense"
+   ],
+   "needs": [
+    "Consideration",
+    "Ease",
+    "Efficacy"
+   ]
+  },
+  {
+   "name": "Insignificant",
+   "emoji": "🔸",
+   "description": "Interpretation that you do not matter.",
+   "feelings": [
+    "Sad",
+    "Lonely",
+    "Hurt"
+   ],
+   "needs": [
+    "To matter",
+    "Recognition",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Invalidated",
+   "emoji": "❎",
+   "description": "Interpretation that your feelings were waved away.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Lonely"
+   ],
+   "needs": [
+    "Validation",
+    "Understanding",
+    "Empathy"
+   ]
+  },
+  {
+   "name": "Jerked around",
+   "emoji": "🎢",
+   "description": "Interpretation that someone keeps changing course on you.",
+   "feelings": [
+    "Frustrated",
+    "Annoyed",
+    "Confused"
+   ],
+   "needs": [
+    "Consistency",
+    "Predictability",
+    "Consideration"
+   ]
+  },
+  {
+   "name": "Lied to",
+   "emoji": "🤥",
+   "description": "Interpretation that someone told you untruths.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Disappointed"
+   ],
+   "needs": [
+    "Honesty",
+    "Trust",
+    "Truth"
+   ]
+  },
+  {
+   "name": "Looked down on",
+   "emoji": "🧐",
+   "description": "Interpretation that someone thinks they are above you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Equality",
+    "Respect",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Mistreated",
+   "emoji": "🥀",
+   "description": "Interpretation that someone treated you badly.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Sad"
+   ],
+   "needs": [
+    "Respect",
+    "Kindness",
+    "Fairness"
+   ]
+  },
+  {
+   "name": "Mocked",
+   "emoji": "🤪",
+   "description": "Interpretation that someone made fun of you.",
+   "feelings": [
+    "Hurt",
+    "Embarrassed",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Acceptance",
+    "Kindness"
+   ]
+  },
+  {
+   "name": "Nagged",
+   "emoji": "🔔",
+   "description": "Interpretation that someone keeps pressing you.",
+   "feelings": [
+    "Annoyed",
+    "Tense",
+    "Resentful"
+   ],
+   "needs": [
+    "Autonomy",
+    "Trust",
+    "Peace"
+   ]
+  },
+  {
+   "name": "Overpowered",
+   "emoji": "🥊",
+   "description": "Interpretation that someone overrode you by force.",
+   "feelings": [
+    "Helpless",
+    "Angry",
+    "Scared"
+   ],
+   "needs": [
+    "Autonomy",
+    "Equality",
+    "Safety"
+   ]
+  },
+  {
+   "name": "Overruled",
+   "emoji": "🔨",
+   "description": "Interpretation that your say was overridden.",
+   "feelings": [
+    "Frustrated",
+    "Resentful",
+    "Hurt"
+   ],
+   "needs": [
+    "Respect",
+    "Choice",
+    "Participation"
+   ]
+  },
+  {
+   "name": "Overworked",
+   "emoji": "🛠️",
+   "description": "Interpretation that you are given too much to do.",
+   "feelings": [
+    "Exhausted",
+    "Resentful",
+    "Overwhelmed"
+   ],
+   "needs": [
+    "Rest",
+    "Support",
+    "Balance"
+   ]
+  },
+  {
+   "name": "Pestered",
+   "emoji": "🦟",
+   "description": "Interpretation that someone will not stop asking.",
+   "feelings": [
+    "Annoyed",
+    "Irritated",
+    "Tense"
+   ],
+   "needs": [
+    "Space",
+    "Peace",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Picked on",
+   "emoji": "👈",
+   "description": "Interpretation that someone keeps targeting you.",
+   "feelings": [
+    "Hurt",
+    "Angry",
+    "Scared"
+   ],
+   "needs": [
+    "Respect",
+    "Safety",
+    "Fairness"
+   ]
+  },
+  {
+   "name": "Pushed around",
+   "emoji": "🧱",
+   "description": "Interpretation that others override you.",
+   "feelings": [
+    "Angry",
+    "Helpless",
+    "Frustrated"
+   ],
+   "needs": [
+    "Autonomy",
+    "Respect",
+    "Equality"
+   ]
+  },
+  {
+   "name": "Pushed away",
+   "emoji": "🫸",
+   "description": "Interpretation that someone kept you at a distance.",
+   "feelings": [
+    "Hurt",
+    "Lonely",
+    "Sad"
+   ],
+   "needs": [
+    "Closeness",
+    "Acceptance",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Put upon",
+   "emoji": "🎒",
+   "description": "Interpretation that others lean on you unfairly.",
+   "feelings": [
+    "Resentful",
+    "Tired",
+    "Annoyed"
+   ],
+   "needs": [
+    "Mutuality",
+    "Consideration",
+    "Support"
+   ]
+  },
+  {
+   "name": "Rebuked",
+   "emoji": "📢",
+   "description": "Interpretation that someone sharply criticized you.",
+   "feelings": [
+    "Hurt",
+    "Embarrassed",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Understanding",
+    "Kindness"
+   ]
+  },
+  {
+   "name": "Replaceable",
+   "emoji": "🔁",
+   "description": "Interpretation that anyone could take your place.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Insecure"
+   ],
+   "needs": [
+    "To matter",
+    "Recognition",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Robbed",
+   "emoji": "🏴‍☠️",
+   "description": "Interpretation that something of yours was taken.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Shocked"
+   ],
+   "needs": [
+    "Fairness",
+    "Justice",
+    "Safety"
+   ]
+  },
+  {
+   "name": "Sabotaged",
+   "emoji": "🧨",
+   "description": "Interpretation that someone worked against you.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Frustrated"
+   ],
+   "needs": [
+    "Trust",
+    "Cooperation",
+    "Efficacy"
+   ]
+  },
+  {
+   "name": "Scapegoated",
+   "emoji": "🐐",
+   "description": "Interpretation that you are blamed for others' faults.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Resentful"
+   ],
+   "needs": [
+    "Fairness",
+    "Justice",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Shamed",
+   "emoji": "🙈",
+   "description": "Interpretation that someone made you feel bad about yourself.",
+   "feelings": [
+    "Ashamed",
+    "Hurt",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Acceptance",
+    "Dignity",
+    "Compassion"
+   ]
+  },
+  {
+   "name": "Shut out",
+   "emoji": "🔒",
+   "description": "Interpretation that you are kept out.",
+   "feelings": [
+    "Lonely",
+    "Hurt",
+    "Frustrated"
+   ],
+   "needs": [
+    "Inclusion",
+    "Belonging",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Shut down",
+   "emoji": "⏹️",
+   "description": "Interpretation that someone stopped you speaking or acting.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Angry"
+   ],
+   "needs": [
+    "Self-expression",
+    "Respect",
+    "Participation"
+   ]
+  },
+  {
+   "name": "Silenced",
+   "emoji": "🔇",
+   "description": "Interpretation that you are not allowed a voice.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Angry"
+   ],
+   "needs": [
+    "Self-expression",
+    "Respect",
+    "Freedom"
+   ]
+  },
+  {
+   "name": "Slighted",
+   "emoji": "💨",
+   "description": "Interpretation that someone was a little disrespectful.",
+   "feelings": [
+    "Hurt",
+    "Annoyed",
+    "Disappointed"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Recognition"
+   ]
+  },
+  {
+   "name": "Stepped on",
+   "emoji": "👣",
+   "description": "Interpretation that someone disregarded your needs.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Resentful"
+   ],
+   "needs": [
+    "Respect",
+    "Consideration",
+    "Equality"
+   ]
+  },
+  {
+   "name": "Stonewalled",
+   "emoji": "🧱",
+   "description": "Interpretation that someone shuts you out of conversation.",
+   "feelings": [
+    "Frustrated",
+    "Lonely",
+    "Anxious"
+   ],
+   "needs": [
+    "Communication",
+    "Responsiveness",
+    "Understanding"
+   ]
+  },
+  {
+   "name": "Stifled",
+   "emoji": "😶",
+   "description": "Interpretation that you cannot be yourself.",
+   "feelings": [
+    "Frustrated",
+    "Restless",
+    "Sad"
+   ],
+   "needs": [
+    "Self-expression",
+    "Freedom",
+    "Authenticity"
+   ]
+  },
+  {
+   "name": "Stranded",
+   "emoji": "🏝️",
+   "description": "Interpretation that you are left without help.",
+   "feelings": [
+    "Scared",
+    "Helpless",
+    "Lonely"
+   ],
+   "needs": [
+    "Support",
+    "Safety",
+    "Reliability"
+   ]
+  },
+  {
+   "name": "Suffocated",
+   "emoji": "🫧",
+   "description": "Interpretation that you have no air or room.",
+   "feelings": [
+    "Tense",
+    "Annoyed",
+    "Overwhelmed"
+   ],
+   "needs": [
+    "Space",
+    "Autonomy",
+    "Ease"
+   ]
+  },
+  {
+   "name": "Taken advantage of",
+   "emoji": "🧃",
+   "description": "Interpretation that someone used your goodwill.",
+   "feelings": [
+    "Angry",
+    "Resentful",
+    "Hurt"
+   ],
+   "needs": [
+    "Mutuality",
+    "Respect",
+    "Fairness"
+   ]
+  },
+  {
+   "name": "Talked over",
+   "emoji": "🗣️",
+   "description": "Interpretation that someone drowned you out.",
+   "feelings": [
+    "Frustrated",
+    "Hurt",
+    "Annoyed"
+   ],
+   "needs": [
+    "Respect",
+    "Understanding",
+    "Participation"
+   ]
+  },
+  {
+   "name": "Targeted",
+   "emoji": "🎯",
+   "description": "Interpretation that you are singled out.",
+   "feelings": [
+    "Scared",
+    "Angry",
+    "Hurt"
+   ],
+   "needs": [
+    "Safety",
+    "Fairness",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Teased",
+   "emoji": "😜",
+   "description": "Interpretation that someone joked at your expense.",
+   "feelings": [
+    "Embarrassed",
+    "Hurt",
+    "Annoyed"
+   ],
+   "needs": [
+    "Respect",
+    "Kindness",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Tolerated",
+   "emoji": "🫤",
+   "description": "Interpretation that you are only put up with.",
+   "feelings": [
+    "Hurt",
+    "Sad",
+    "Lonely"
+   ],
+   "needs": [
+    "Acceptance",
+    "Belonging",
+    "Appreciation"
+   ]
+  },
+  {
+   "name": "Tricked",
+   "emoji": "🪄",
+   "description": "Interpretation that someone fooled you.",
+   "feelings": [
+    "Angry",
+    "Embarrassed",
+    "Hurt"
+   ],
+   "needs": [
+    "Honesty",
+    "Trust",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Tied down",
+   "emoji": "⛓️",
+   "description": "Interpretation that you cannot move freely.",
+   "feelings": [
+    "Restless",
+    "Frustrated",
+    "Resentful"
+   ],
+   "needs": [
+    "Freedom",
+    "Choice",
+    "Space"
+   ]
+  },
+  {
+   "name": "Tormented",
+   "emoji": "🌪️",
+   "description": "Interpretation that someone keeps causing you pain.",
+   "feelings": [
+    "Distressed",
+    "Scared",
+    "Angry"
+   ],
+   "needs": [
+    "Safety",
+    "Peace",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Treated like a child",
+   "emoji": "🧒",
+   "description": "Interpretation that someone does not see you as capable.",
+   "feelings": [
+    "Annoyed",
+    "Hurt",
+    "Angry"
+   ],
+   "needs": [
+    "Respect",
+    "Autonomy",
+    "Equality"
+   ]
+  },
+  {
+   "name": "Undermined",
+   "emoji": "⛏️",
+   "description": "Interpretation that someone chipped at your standing.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Frustrated"
+   ],
+   "needs": [
+    "Trust",
+    "Support",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Undervalued",
+   "emoji": "🏷️",
+   "description": "Interpretation that your worth is underrated.",
+   "feelings": [
+    "Hurt",
+    "Disappointed",
+    "Resentful"
+   ],
+   "needs": [
+    "Appreciation",
+    "Recognition",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Unimportant",
+   "emoji": "🔅",
+   "description": "Interpretation that you rank low for others.",
+   "feelings": [
+    "Sad",
+    "Hurt",
+    "Lonely"
+   ],
+   "needs": [
+    "To matter",
+    "Consideration",
+    "Connection"
+   ]
+  },
+  {
+   "name": "Unseen",
+   "emoji": "🫥",
+   "description": "Interpretation that nobody notices who you are.",
+   "feelings": [
+    "Lonely",
+    "Sad",
+    "Hurt"
+   ],
+   "needs": [
+    "Recognition",
+    "To matter",
+    "Understanding"
+   ]
+  },
+  {
+   "name": "Unwelcome",
+   "emoji": "🚪",
+   "description": "Interpretation that you are not wanted here.",
+   "feelings": [
+    "Hurt",
+    "Lonely",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Belonging",
+    "Acceptance",
+    "Inclusion"
+   ]
+  },
+  {
+   "name": "Walked all over",
+   "emoji": "🥾",
+   "description": "Interpretation that others treat you as a doormat.",
+   "feelings": [
+    "Angry",
+    "Resentful",
+    "Hurt"
+   ],
+   "needs": [
+    "Respect",
+    "Equality",
+    "Boundaries"
+   ]
+  },
+  {
+   "name": "Wronged",
+   "emoji": "⚖️",
+   "description": "Interpretation that you were treated unjustly.",
+   "feelings": [
+    "Angry",
+    "Hurt",
+    "Resentful"
+   ],
+   "needs": [
+    "Justice",
+    "Fairness",
+    "Respect"
+   ]
+  },
+  {
+   "name": "Not good enough",
+   "emoji": "📐",
+   "description": "Judgment that you fall short of a standard.",
+   "feelings": [
+    "Sad",
+    "Ashamed",
+    "Discouraged"
+   ],
+   "needs": [
+    "Acceptance",
+    "Recognition",
+    "Competence"
+   ]
+  },
+  {
+   "name": "Like a burden",
+   "emoji": "🧳",
+   "description": "Judgment that you weigh others down.",
+   "feelings": [
+    "Sad",
+    "Ashamed",
+    "Lonely"
+   ],
+   "needs": [
+    "Acceptance",
+    "To matter",
+    "Belonging"
+   ]
+  },
+  {
+   "name": "Dumb",
+   "emoji": "🥴",
+   "description": "Judgment that you cannot figure things out.",
+   "feelings": [
+    "Embarrassed",
+    "Discouraged",
+    "Ashamed"
+   ],
+   "needs": [
+    "Competence",
+    "Learning",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Unlovable",
+   "emoji": "🥀",
+   "description": "Judgment that nobody could love you.",
+   "feelings": [
+    "Sad",
+    "Lonely",
+    "Hopeless"
+   ],
+   "needs": [
+    "Love",
+    "Acceptance",
+    "Belonging"
+   ]
+  },
+  {
+   "name": "Defective",
+   "emoji": "🛠️",
+   "description": "Judgment that something is wrong with you.",
+   "feelings": [
+    "Ashamed",
+    "Sad",
+    "Hurt"
+   ],
+   "needs": [
+    "Acceptance",
+    "Self-acceptance",
+    "Compassion"
+   ]
+  },
+  {
+   "name": "Weak",
+   "emoji": "🪫",
+   "description": "Judgment that you lack strength.",
+   "feelings": [
+    "Ashamed",
+    "Vulnerable",
+    "Discouraged"
+   ],
+   "needs": [
+    "Support",
+    "Acceptance",
+    "Self-compassion"
+   ]
+  },
+  {
+   "name": "Selfish",
+   "emoji": "🙇",
+   "description": "Judgment that you put yourself first.",
+   "feelings": [
+    "Guilty",
+    "Ashamed",
+    "Torn"
+   ],
+   "needs": [
+    "Self-care",
+    "Understanding",
+    "Acceptance"
+   ]
+  },
+  {
+   "name": "Stuck",
+   "emoji": "🪤",
+   "description": "Judgment that you cannot move forward.",
+   "feelings": [
+    "Frustrated",
+    "Hopeless",
+    "Restless"
+   ],
+   "needs": [
+    "Choice",
+    "Hope",
+    "Growth"
+   ]
+  },
+  {
+   "name": "Pathetic",
+   "emoji": "😞",
+   "description": "Judgment that you are not worth respect.",
+   "feelings": [
+    "Ashamed",
+    "Sad",
+    "Embarrassed"
+   ],
+   "needs": [
+    "Self-respect",
+    "Acceptance",
+    "Compassion"
+   ]
+  }
+ ]
+}
